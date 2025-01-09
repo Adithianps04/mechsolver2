@@ -109,7 +109,7 @@ pkg update && pkg upgrade
 pkg install python git
 
 # Clone repository
-git clone https://github.com/yourusername/mechsolver.git
+git clone https://github.com/Adithianps04/mechsolver2
 cd mechsolver/termux_version
 
 # Install dependencies
@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-Made with ❤️ by the MechSolver Team
+
 
 [⬆ Back to top](#-mechsolver)
 
